@@ -1,0 +1,14 @@
+{
+  "name": "cy-bdd",
+  "version": "1.0.0",
+  "description": "Exemplo de Behavior Driven Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "ernestosbarbosa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.3"
+  }
+}
